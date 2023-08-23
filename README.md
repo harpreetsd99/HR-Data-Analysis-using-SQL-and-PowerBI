@@ -1,5 +1,7 @@
 ## Human Resouce Data Analysis using MySQL and PowerBI
 ![image](https://github.com/harpreetsd99/HR-Data-Analysis-using-SQL-and-PowerBI/assets/55660057/661aad19-2358-462f-94da-4e56b3d95523)
+![image](https://github.com/harpreetsd99/HR-Data-Analysis-using-SQL-and-PowerBI/assets/55660057/75a13090-ffbb-4a0e-8a17-5c0e96cdd677)
+
 Trying to find insights and findings using the Human Resource Dataset (20k+ Rows) by considering turnover rates, race-age-gender distribution, and much more with the help of MySQL Workbench and PowerBI. 
 
 #### Some defined set of problem sets are: 
